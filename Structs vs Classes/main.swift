@@ -10,6 +10,7 @@ import Foundation
 let hero = StructHero(name: "Iron Man", universe: "Marvel")
 hero.name = "Cat Woman"
 
+var secondHero = "Second bla lvb"
 
 //var anotherMarvelHero = hero
 //
